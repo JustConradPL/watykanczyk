@@ -62,3 +62,7 @@ C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.csp
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.exe
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.pdb
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.csproj.AssemblyReference.cache
+C:\Users\Konrad\source\repos\JustConradPL\watykanczyk\bin\Debug\watykańczyk.exe.manifest
+C:\Users\Konrad\source\repos\JustConradPL\watykanczyk\bin\Debug\watykańczyk.application
+C:\Users\Konrad\source\repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.exe.manifest
+C:\Users\Konrad\source\repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.application
