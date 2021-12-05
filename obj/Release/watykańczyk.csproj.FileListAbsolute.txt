@@ -62,3 +62,7 @@ C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Release\watykańczyk.c
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Release\watykańczyk.csproj.CopyComplete
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Release\watykańczyk.exe
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Release\watykańczyk.pdb
+C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\bin\Release\watykańczyk.exe.manifest
+C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\bin\Release\watykańczyk.application
+C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Release\watykańczyk.exe.manifest
+C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Release\watykańczyk.application
