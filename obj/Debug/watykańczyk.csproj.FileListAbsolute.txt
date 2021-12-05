@@ -33,6 +33,8 @@ C:\Users\Konrad\source\repos\watykańczyk\obj\Debug\watykańczyk.csproj.Assembly
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\bin\Debug\Wapiesz.wav
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\bin\Debug\Papieski_Vibe.mp4
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\bin\Debug\watykańczyk.exe.config
+C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\bin\Debug\watykańczyk.exe.manifest
+C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\bin\Debug\watykańczyk.application
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\bin\Debug\watykańczyk.exe
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\bin\Debug\watykańczyk.pdb
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\bin\Debug\Microsoft.Xaml.Behaviors.dll
@@ -41,6 +43,7 @@ C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\bin\Debug\Microsoft.Xaml.B
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\bin\Debug\Microsoft.Xaml.Behaviors.xml
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\bin\Debug\WpfAnimatedGif.pdb
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.csproj.AssemblyReference.cache
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\ComingForYouWin.g.cs
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\GoodEndingWin.g.cs
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\MainWindow.g.cs
@@ -58,11 +61,8 @@ C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.g.r
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.Properties.Resources.resources
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.csproj.GenerateResource.cache
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.exe.manifest
+C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.application
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.csproj.CopyComplete
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.exe
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.pdb
-C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.csproj.AssemblyReference.cache
-C:\Users\Konrad\source\repos\JustConradPL\watykanczyk\bin\Debug\watykańczyk.exe.manifest
-C:\Users\Konrad\source\repos\JustConradPL\watykanczyk\bin\Debug\watykańczyk.application
-C:\Users\Konrad\source\repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.exe.manifest
-C:\Users\Konrad\source\repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.application

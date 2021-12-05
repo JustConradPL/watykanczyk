@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Model",
+    "\\obj",
+    "\\Viewmodel"
   ],
+  "SelectedNode": "\\GoodEndingWin.xaml",
   "PreviewInSolutionExplorer": false
 }

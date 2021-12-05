@@ -23,5 +23,10 @@ namespace watykańczyk
         {
             InitializeComponent();
         }
+
+        private void MediaElement_MediaEnded(object sender, RoutedEventArgs e)
+        {
+            Player.Position = TimeSpan.Zero;
+        }
     }
 }

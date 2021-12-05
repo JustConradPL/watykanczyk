@@ -21,7 +21,9 @@
     </Window.Resources>
     
     <Grid>
-        <MediaElement Source="Papieski_Vibe.mp4" LoadedBehavior="Play" IsMuted="False" HorizontalAlignment="Left"/>
+        <MediaElement x:Name="Player"
+                      Source="Papieski_Vibe.mp4" MediaEnded="MediaElement_MediaEnded" 
+                      LoadedBehavior="Play" IsMuted="False" HorizontalAlignment="Left"/>
         <TextBlock FontSize="40" Margin="24,0,0.2,370.6" Text="DOBRA ODPOWIEDŹ" 
                    Foreground="White" FontWeight="ExtraBlack"
                    x:Name="BlinkingText">
