@@ -7,7 +7,8 @@
         xmlns:gif="http://wpfanimatedgif.codeplex.com"
         xmlns:vm="clr-namespace:watykańczyk.Viewmodel"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800"
+        ResizeMode="NoResize">
     <Window.Resources>
         <vm:NoBtn x:Key="MainViewModel"/>
     </Window.Resources>

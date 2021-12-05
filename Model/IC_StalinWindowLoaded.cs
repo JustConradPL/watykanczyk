@@ -13,8 +13,8 @@ namespace watykańczyk.Model
 {
     public class IC_StalinWindowLoaded : ICommand
     {
-        private const int minAppearTime = 80;
-        private const int maxAppearTime = 120;
+        private const int minAppearTime = 100;
+        private const int maxAppearTime = 500;
 
 
         Random rnd = new Random();
