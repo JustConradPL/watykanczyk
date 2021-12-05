@@ -1,0 +1,26 @@
+﻿<Window x:Class="watykańczyk.ComingForYouWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:watykańczyk"
+        xmlns:vm="clr-namespace:watykańczyk.Viewmodel"
+        xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+        mc:Ignorable="d"
+        Title="ComingForYouWin" SizeToContent="WidthAndHeight"
+        WindowStyle="None">
+    <Window.DataContext>
+        <vm:HelpingViewModel/>
+    </Window.DataContext>
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Loaded">
+            <i:InvokeCommandAction Command="{Binding Loaded}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    <Grid>
+        <Image Source="/watykańczyk;component/Sztalin.jpg" 
+               Width="190" Height="250"/>
+
+
+    </Grid>
+</Window>
