@@ -61,3 +61,4 @@ C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.csp
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.csproj.CopyComplete
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.exe
 C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.pdb
+C:\Users\Konrad\Source\Repos\JustConradPL\watykanczyk\obj\Debug\watykańczyk.csproj.AssemblyReference.cache
