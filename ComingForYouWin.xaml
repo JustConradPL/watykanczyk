@@ -20,7 +20,5 @@
     <Grid>
         <Image Source="/watykańczyk;component/Sztalin.jpg" 
                Width="190" Height="250"/>
-
-
     </Grid>
 </Window>

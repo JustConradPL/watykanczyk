@@ -138,6 +138,19 @@
     <Resource Include="Memy\6.png" />
     <Resource Include="Memy\7.png" />
     <Resource Include="Memy\8.png" />
+    <Resource Include="Memy\5.png" />
+    <Resource Include="Memy\9.png" />
+    <Resource Include="Memy\10.png" />
+    <Resource Include="Memy\11.png" />
+    <Resource Include="Memy\12.png" />
+    <Resource Include="Memy\13.png" />
+    <Resource Include="Memy\14.png" />
+    <Resource Include="Memy\15.png" />
+    <Resource Include="Memy\16.png" />
+    <Resource Include="Memy\17.png" />
+    <Resource Include="Memy\18.png" />
+    <Resource Include="Memy\19.png" />
+    <Resource Include="Memy\20.png" />
     <Content Include="Wapiesz.wav">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
