@@ -26,6 +26,18 @@ namespace watykańczyk.Viewmodel
             {"6.png",250 },
             {"7.png", 600 },
             {"8.png", 700 },
+            {"9.png",400 },
+            {"10.png",250 },
+            {"11.png",600 },
+            {"12.png", 700 },
+            {"13.png",400 },
+            {"14.png",450 },
+            {"15.png",150 },
+            {"16.png",350 },
+            {"17.png",700 },
+            {"18.png",800 },
+            {"19.png",600 },
+            {"20.png",500 },
         };
 
         public string ImageName
